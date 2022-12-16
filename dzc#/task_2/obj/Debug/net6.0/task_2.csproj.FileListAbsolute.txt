@@ -1,0 +1,15 @@
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\bin\Debug\net6.0\task_2.exe
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\bin\Debug\net6.0\task_2.deps.json
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\bin\Debug\net6.0\task_2.runtimeconfig.json
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\bin\Debug\net6.0\task_2.dll
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\bin\Debug\net6.0\task_2.pdb
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\obj\Debug\net6.0\task_2.csproj.AssemblyReference.cache
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\obj\Debug\net6.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\obj\Debug\net6.0\task_2.AssemblyInfoInputs.cache
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\obj\Debug\net6.0\task_2.AssemblyInfo.cs
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\obj\Debug\net6.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\obj\Debug\net6.0\task_2.dll
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\obj\Debug\net6.0\refint\task_2.dll
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\obj\Debug\net6.0\task_2.pdb
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\obj\Debug\net6.0\task_2.genruntimeconfig.cache
+C:\Users\rolle\OneDrive\Рабочий стол\gb лекции\PhytoN\dz9\dzc#\task_2\obj\Debug\net6.0\ref\task_2.dll
